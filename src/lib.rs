@@ -10,7 +10,7 @@ pub mod render;
 pub struct App {
     renderer: Renderer,
     event_loop: EventLoop<()>,
-    window: Window,
+    pub window: Window,
 }
 
 impl App {
