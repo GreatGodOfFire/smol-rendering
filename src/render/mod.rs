@@ -1,4 +1,5 @@
 pub mod mesh;
+pub mod lyon;
 
 use wgpu::util::DeviceExt;
 use winit::{dpi::PhysicalSize, window::Window};

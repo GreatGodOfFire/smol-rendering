@@ -11,6 +11,4 @@ log = "0.4"
 pollster = "0.3.0"
 wgpu = "0.17"
 winit = "0.28"
-
-[dev-dependencies]
 lyon = "1"
